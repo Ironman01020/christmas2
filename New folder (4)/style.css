@@ -1,0 +1,13 @@
+.christmas {
+    color: rgb(175, 53, 199);
+    font-size: 100PX;
+}
+
+body {
+    background-color: pink;
+    text-align: center;
+}
+
+.logo {
+    margin: 200px;
+}
